@@ -8,6 +8,7 @@ name = "pypi"
 [packages]
 
 django = "==1.10.5"
+gunicorn = "*"
 
 
 [dev-packages]
